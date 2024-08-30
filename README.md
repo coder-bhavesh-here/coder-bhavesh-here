@@ -11,6 +11,12 @@
 - Other Tools: GoDaddy, GitHub, GitLab, BitBucket
 🔍 Also exploring ethical hacking and bug bounty programs to enhance my cybersecurity skills.
 
+## Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![Laravel](https://img.shields.io/badge/Laravel-Advanced-blue)
+![VueJS](https://img.shields.io/badge/VueJS-Intermediate-brightgreen)
+
 💡 What Drives Me: Passionate about leveraging cutting-edge technologies to build scalable and high-performance solutions. Always excited to tackle new challenges, optimize systems, and drive innovation.
 
 📬 Let’s Collaborate: If you're looking to innovate, optimize, or just chat about the latest in tech, feel free to connect!
