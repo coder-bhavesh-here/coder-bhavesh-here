@@ -11,6 +11,7 @@
 - CMS & E-Commerce: WordPress, Shopify
 - Cloud & DevOps: AWS, GCP, CI/CD, TDD
 - Other Tools: GoDaddy, GitHub, GitLab, BitBucket
+
 🔍 Also exploring ethical hacking and bug bounty programs to enhance my cybersecurity skills.
 
 ## Skills
